@@ -20,7 +20,7 @@ The design is simple, compact, and customizable — a perfect starting point for
 
 ## 🔹 PCB
 <p align="center">
-  <img src="hardware/pcb-preview.png" alt="BORNO MK1 PCB" width="500"/>
+  <img src="docs/images/pcb-preview.png" alt="BORNO MK1 PCB" width="500"/>
 </p>
 
 - [Download Gerber Files](hardware/gerbers.zip)
