@@ -32,6 +32,8 @@ The design is simple, compact, and customizable — a perfect starting point for
 - [Precompiled HEX File](firmware/hex/borno_mk1_default.hex)
 - Or change according to your need.
 
+Note: I Didn't write any code for the OLED...
+
 ---
 
 ## 🔹 Photos
