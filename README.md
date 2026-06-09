@@ -35,7 +35,7 @@ The design is simple, compact, and customizable — a perfect starting point for
 ---
 
 ## 🔹 Photos
-Here are some photos from the build process and the finished macropad:  
+Here are some photos from the build process and the finished macropad: (Sorry Didn’t Get time to upload photos🥲)  
 
 <p align="center">
   <img src="docs/images/build1.jpg" width="300"/>
